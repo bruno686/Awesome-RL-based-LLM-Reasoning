@@ -35,6 +35,16 @@ We have witnessed the powerful capabilities of RL-based LLMs. In this repository
 - **[Chain-of-Thought Reasoning In Language Models](https://bcmi.sjtu.edu.cn/~zhangzs/slides/CoT-zhuosheng.pdf)** Zhuosheng Zhang-SJTU
 - **[Learning to Self-Improve & Reason with LLMs](https://rdi.berkeley.edu/adv-llm-agents/slides/Jason-Weston-Reasoning-Alignment-Berkeley-Talk.pdf)** Jason Weston-Meta & NYU
 
+## Video
+- [EZ撸paper: DeepSeek-R1 论文详解 part 1：比肩 OpenAI-o1，如何做到的？](https://www.youtube.com/watch?v=tRuN8xYdETs&t=283s)
+
+
+## Introduction to Reinforcement Learning
+- [（PPO、Q-learning、DQN、A3C）算法原理](https://www.bilibili.com/video/BV1Za4y1d7YJ?spm_id_from=333.788.player.switch&vd_source=228d782c60d8b392d7077abd8d7a1fee&p=3)
+- [pytorch 强化学习-五道口纳什](https://www.bilibili.com/video/BV1tP411M7dT?spm_id_from=333.788.videopod.sections&vd_source=228d782c60d8b392d7077abd8d7a1fee)
+- [【莫烦Python】强化学习 Reinforcement Learning](https://www.bilibili.com/video/BV13W411Y75P/?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click&vd_source=228d782c60d8b392d7077abd8d7a1fee)
+
+
 ## Contributing
 
 - Feel free to contribute more papers or other any resources!
