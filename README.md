@@ -1,5 +1,5 @@
 # Awesome-RL-based-LLM-Reasoning
-Awesome RL-based LLM Reasoning
+We have witnessed the powerful capabilities of RL-based LLMs. In this repository, we will add papers, slides, and other interesting materials that enhance LLM reasoning with reinforcement learning, helping everyone learn quickly!
 
 ## Papers
 
@@ -37,4 +37,4 @@ Awesome RL-based LLM Reasoning
 
 ## Contributing
 
-- Feel free to contribute more papers!
+- Feel free to contribute more papers or other any resources!
