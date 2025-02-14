@@ -41,6 +41,8 @@ We have witnessed the powerful capabilities of RL-based LLMs. In this repository
 
 ## Video
 * [EZ撸paper: DeepSeek-R1 论文详解 part 1：比肩 OpenAI-o1，如何做到的？](https://www.youtube.com/watch?v=tRuN8xYdETs&t=283s)
+* [[GRPO Explained] DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://www.youtube.com/watch?v=bAWV_yrqx4w)
+* [DeepSeek R1 Explained to your grandma](https://www.youtube.com/watch?v=kv8frWeKoeo&t=226s)
 
 
 ## Open-Source Project
