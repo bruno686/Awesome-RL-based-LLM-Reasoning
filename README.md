@@ -4,8 +4,27 @@ Awesome RL-based LLM Reasoning
 ## Papers
 
 ### Policy Optimization
-1. [Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning](https://arxiv.org/pdf/2501.12948?)
-2. [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/pdf/2501.12599?)
+- [Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning](https://arxiv.org/pdf/2501.12948?) 2501
+- [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/pdf/2501.12599?) 2501
+
+### Process-based Reward Models
+- [Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations](https://arxiv.org/abs/2312.08935) 2312
+- [Let's verify step by step](https://arxiv.org/pdf/2305.20050) 2305
+- [Solving math word problems with process-and outcome-based feedback](https://arxiv.org/pdf/2211.14275) 2211
+
+### Reinforcement learning
+- [Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/abs/2409.12917) 2409
+
+### Search algorithms (Monte Carlo Tree Search or Beam Search)
+- [Solving olympiad geometry without human demonstrations](https://www.nature.com/articles/s41586-023-06747-5.pdf)
+- [Deepseek-prover-v1. 5: Harnessing proof assistant feedback for reinforcement learning and monte-carlo tree search](https://arxiv.org/abs/2408.08152) 2408
+
+- []()
+- []()
+- []()
+- []()
+
+### 
 
 ## Slides
 
