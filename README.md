@@ -44,10 +44,10 @@ We have witnessed the powerful capabilities of RL-based LLMs. In this repository
 
 
 ## Open-Source Project
-* 🔥 ![TinyZero Stars](https://img.shields.io/github/stars/Jiayi-Pan/TinyZero) [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
+* 🔥 ![TinyZero Stars](https://img.shields.io/github/stars/Jiayi-Pan/TinyZero) [TinyZero](https://github.com/Jiayi-Pan/TinyZero) (4*4090 is enough for 0.5B LLM, but can't observe aha moment)
 * 🔥 ![Open-r1 Stars](https://img.shields.io/github/stars/huggingface/open-r1) [Open-r1](https://github.com/huggingface/open-r1)
-* 🔥 ![TinyZero Stars](https://img.shields.io/github/stars/Jiayi-Pan/TinyZero) [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
-* 🔥 ![TinyZero Stars](https://img.shields.io/github/stars/Jiayi-Pan/TinyZero) [TinyZero](https://github.com/Jiayi-Pan/TinyZero)
+* 🔥 ![Logic-RL Stars](https://img.shields.io/github/stars/Unakar/Logic-RL) [Logic-RL](https://github.com/Unakar/Logic-RL)
+* 🔥 ![Unsloth-GRPO Stars](https://img.shields.io/github/stars/unslothai/unsloth) [Unsloth-GRPO](https://colab.research.google.com/drive/11t4njE3c4Lxl-07OD8lJSMKkfyJml3Tn?usp=sharing) (simplest r1 implementation)
 
 
 ## Introduction to Reinforcement Learning
