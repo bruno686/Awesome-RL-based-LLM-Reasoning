@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-We have witnessed the powerful capabilities of RL-based LLMs. In this repository, we will add papers, slides, and other interesting materials that enhance LLM reasoning with reinforcement learning, helping everyone learn quickly!
+We have witnessed the powerful capabilities of pure RL-based LLMs. In this repository, we will add papers, slides, and other interesting materials that enhance LLM reasoning with reinforcement learning, helping everyone learn quickly!
 
 ## Papers
 
@@ -56,6 +56,10 @@ We have witnessed the powerful capabilities of RL-based LLMs. In this repository
 * [（PPO、Q-learning、DQN、A3C）算法原理](https://www.bilibili.com/video/BV1Za4y1d7YJ?spm_id_from=333.788.player.switch&vd_source=228d782c60d8b392d7077abd8d7a1fee&p=3)
 * [pytorch 强化学习-五道口纳什](https://www.bilibili.com/video/BV1tP411M7dT?spm_id_from=333.788.videopod.sections&vd_source=228d782c60d8b392d7077abd8d7a1fee)
 * [【莫烦Python】强化学习 Reinforcement Learning](https://www.bilibili.com/video/BV13W411Y75P/?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click&vd_source=228d782c60d8b392d7077abd8d7a1fee)
+
+
+## Cloud GPU
+* [Compshare](https://passport.compshare.cn/register?referral_code=Cb96G1f6v4pCdYvO9jqDYd) (After registration, there is a quota of 50 yuan, enough to run R1 on unsloth)
 
 
 ## Contributing
