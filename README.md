@@ -38,7 +38,7 @@ results) and attempting to solve them.) (Stanford-Tengyu Ma)
 
 
 ### Other Newest Interesting Papers about LLM Reasoning
-* [2502] [When More is Less: Understanding Chain-of-Thought Length in LLMs](https://www.alphaxiv.org/abs/2502.07266) (PKU, MIT)
+* [2502] [When More is Less: Understanding Chain-of-Thought Length in LLMs](https://www.alphaxiv.org/abs/2502.07266) (I think is also about overthinking) (PKU, MIT)
 * [2502] [CoT-Valve: Length-Compressible Chain-of-Thought Tuning](https://www.alphaxiv.org/abs/2502.09601) (overthinking) (NUS)
 * [2502] [The Danger of Overthinking: Examining the Reasoning-Action Dilemma in
 Agentic Tasks](https://www.alphaxiv.org/abs/2502.08235) (I think overthinking is a practical problem, interesting!) (Berkeley)
