@@ -67,6 +67,8 @@ Distillation](https://arxiv.org/pdf/2502.03860) (Salesforce AI Research)
 * **[Chain-of-Thought Reasoning In Language Models](https://bcmi.sjtu.edu.cn/~zhangzs/slides/CoT-zhuosheng.pdf)** Zhuosheng Zhang-SJTU
 * **[Learning to Self-Improve & Reason with LLMs](https://rdi.berkeley.edu/adv-llm-agents/slides/Jason-Weston-Reasoning-Alignment-Berkeley-Talk.pdf)** Jason Weston-Meta & NYU
 * **[为什么在Deepseek-R1-ZERO出现前，无人尝试放弃微调对齐，通过强化学习生成思考链推理模型？](https://www.zhihu.com/question/10696846752)** Zhihu
+* [Deepseek系列文章梳理](https://www.zhihu.com/question/10714706736/answer/102795684744) Zhihu
+
 
 ## Video
 * [Reinforcement Learning in DeepSeek r1 Visualized](https://www.youtube.com/watch?v=H20Hd6Xb7Qo) ([Chinese](https://www.bilibili.com/video/BV1dWKHetELd/?spm_id_from=333.1007.tianma.1-2-2.click&vd_source=228d782c60d8b392d7077abd8d7a1fee))
