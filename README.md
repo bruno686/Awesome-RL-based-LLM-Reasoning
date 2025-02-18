@@ -68,7 +68,10 @@ Distillation](https://arxiv.org/pdf/2502.03860) (Salesforce AI Research)
 * **[Chain-of-Thought Reasoning In Language Models](https://bcmi.sjtu.edu.cn/~zhangzs/slides/CoT-zhuosheng.pdf)** Zhuosheng Zhang-SJTU
 * **[Learning to Self-Improve & Reason with LLMs](https://rdi.berkeley.edu/adv-llm-agents/slides/Jason-Weston-Reasoning-Alignment-Berkeley-Talk.pdf)** Jason Weston-Meta & NYU
 * **[为什么在Deepseek-R1-ZERO出现前，无人尝试放弃微调对齐，通过强化学习生成思考链推理模型？](https://www.zhihu.com/question/10696846752)** Zhihu
-* [Deepseek系列文章梳理](https://www.zhihu.com/question/10714706736/answer/102795684744) Zhihu
+* **[Deepseek系列文章梳理](https://www.zhihu.com/question/10714706736/answer/102795684744)** Zhihu
+* **[ChatGPT and The Art of Post-Training](https://docs.google.com/presentation/d/11KWCKUORnPpVMSY6vXgBeFSWo7fJcuGQ9yuR6vC1pzE/edit#slide=id.g329eafab7b6_0_3)** Stanford-25/02/18
+
+
 
 
 ## Video
