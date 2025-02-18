@@ -33,8 +33,9 @@ results) and attempting to solve them.) (Stanford-Tengyu Ma)
 
 
 ### Search algorithms (Monte Carlo Tree Search or Beam Search)
-* [2310] [Solving olympiad geometry without human demonstrations](https://www.nature.com/articles/s41586-023-06747-5.pdf) (DeepMind)
+* [2502] [Don’t Get Lost in the Trees: Streamlining LLM Reasoning by Overcoming Tree Search Exploration Pitfalls](https://arxiv.org/pdf/2502.11183v1) (Tencent)
 * [2408] [Deepseek-prover-v1. 5: Harnessing proof assistant feedback for reinforcement learning and monte-carlo tree search](https://arxiv.org/abs/2408.08152) (DeepSeek)
+* [2310] [Solving olympiad geometry without human demonstrations](https://www.nature.com/articles/s41586-023-06747-5.pdf) (DeepMind)
 
 
 ### Other Newest Interesting Papers about LLM Reasoning
