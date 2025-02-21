@@ -47,11 +47,12 @@ Agentic Tasks](https://www.alphaxiv.org/abs/2502.08235) (I think overthinking is
 * [2502] [Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach](https://www.alphaxiv.org/abs/2502.05171) (Current approaches to improving LM capabilities rely heavily on increasing model size or specialized prompting) (Max-Plank)
 * [2502] [LIMO: Less is More for Reasoning](https://arxiv.org/pdf/2502.03387?) (LIMO offers a more principled and direct path through explicit trajectory design obtaining complex reasoning ability) (SJTU)
 * [2502] [Confidence Improves Self-Consistency in LLMs](https://arxiv.org/pdf/2502.06233) (the quality of LLM outputs) (Google Reasearch)
-* [2502] [LLMs Can Easily Learn to Reason from Demonstrations
-Structure, not content, is what matters!](https://arxiv.org/pdf/2502.07374) (UC Berkeley)
+* [2502] [LLMs Can Easily Learn to Reason from Demonstrations Structure, not content, is what matters!](https://arxiv.org/pdf/2502.07374) (UC Berkeley)
 * [2502] [BOLT: Bootstrap Long Chain-of-Thought in Language Models without
 Distillation](https://arxiv.org/pdf/2502.03860) (Salesforce AI Research)
 * [2502] [LLMs Can Teach Themselves to Better Predict the Future](https://arxiv.org/pdf/2502.05253) (self-play generate data) (LSE) 
+* [2412] [Training Large Language Model to Reason in a Continuous Latent Space](https://arxiv.org/pdf/2412.06769?) (Meta-Yuandong Tian)
+
 
 <!-- * []()
 * [] []() ()
@@ -83,10 +84,12 @@ Distillation](https://arxiv.org/pdf/2502.03860) (Salesforce AI Research)
 
 
 ## Open-Source Project
-* 🔥 ![TinyZero Stars](https://img.shields.io/github/stars/Jiayi-Pan/TinyZero) [TinyZero](https://github.com/Jiayi-Pan/TinyZero) (4*4090 is enough for 0.5B LLM, but can't observe aha moment)
-* 🔥 ![Open-r1 Stars](https://img.shields.io/github/stars/huggingface/open-r1) [Open-r1](https://github.com/huggingface/open-r1)
-* 🔥 ![Logic-RL Stars](https://img.shields.io/github/stars/Unakar/Logic-RL) [Logic-RL](https://github.com/Unakar/Logic-RL)
-* 🔥 ![Unsloth-GRPO Stars](https://img.shields.io/github/stars/unslothai/unsloth) [Unsloth-GRPO](https://colab.research.google.com/drive/11t4njE3c4Lxl-07OD8lJSMKkfyJml3Tn?usp=sharing) (simplest r1 implementation)
+* ![TinyZero Stars](https://img.shields.io/github/stars/Jiayi-Pan/TinyZero) [TinyZero](https://github.com/Jiayi-Pan/TinyZero) (4*4090 is enough for 0.5B LLM, but can't observe aha moment)
+* ![Open-r1 Stars](https://img.shields.io/github/stars/huggingface/open-r1) [Open-r1](https://github.com/huggingface/open-r1)
+* ![Logic-RL Stars](https://img.shields.io/github/stars/Unakar/Logic-RL) [Logic-RL](https://github.com/Unakar/Logic-RL)
+* ![Unsloth-GRPO Stars](https://img.shields.io/github/stars/unslothai/unsloth) [Unsloth-GRPO](https://colab.research.google.com/drive/11t4njE3c4Lxl-07OD8lJSMKkfyJml3Tn?usp=sharing) (simplest r1 implementation)
+* ![OpenR](https://img.shields.io/github/stars/openreasoner/openr) [OpenR](https://github.com/openreasoner/openr) (An Open Source Framework for Advanced Reasoning)
+
 
 
 ## Introduction to Reinforcement Learning
