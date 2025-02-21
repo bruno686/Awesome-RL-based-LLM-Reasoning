@@ -17,7 +17,7 @@ Starring this repository is like being at the forefront of RL-based LLM reasonin
 * [2501] [Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning](https://arxiv.org/pdf/2501.12948?) (Deepseek)
 * [2501] [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/pdf/2501.12599?) (Kimi)
 
-### Process-based Reward Models
+### Process-based Reward Model
 * [2502] [Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling](https://www.alphaxiv.org/abs/2502.06703) (THU)
 * [2502] [QLASS: Boosting Language Agent Inference via Q-Guided Stepwise Search](https://arxiv.org/pdf/2502.02584) (UCLA-Yizhou Sun)
 * [2312] [Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations](https://arxiv.org/abs/2312.08935) (PKU & Deepseek)
@@ -40,6 +40,7 @@ results) and attempting to solve them.) (Stanford-Tengyu Ma)
 
 ### Other Newest Interesting Papers about LLM Reasoning
 * [2502] [When More is Less: Understanding Chain-of-Thought Length in LLMs](https://www.alphaxiv.org/abs/2502.07266) (I think is also about overthinking) (PKU, MIT)
+* [2502] [Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning](https://arxiv.org/pdf/2502.03275) (Meta-Yuandong Tian)
 * [2502] [CoT-Valve: Length-Compressible Chain-of-Thought Tuning](https://www.alphaxiv.org/abs/2502.09601) (overthinking) (NUS)
 * [2502] [The Danger of Overthinking: Examining the Reasoning-Action Dilemma in
 Agentic Tasks](https://www.alphaxiv.org/abs/2502.08235) (I think overthinking is a practical problem, interesting!) (Berkeley)
@@ -105,3 +106,7 @@ Distillation](https://arxiv.org/pdf/2502.03860) (Salesforce AI Research)
 ## Contributing
 
 * Feel free to contribute more papers or other any resources!
+
+
+
+
