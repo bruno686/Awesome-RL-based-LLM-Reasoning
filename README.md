@@ -10,7 +10,7 @@ Starring this repository is like being at the forefront of RL-based LLM reasonin
 
 ## Papers
 
-### Outcome Reward Model
+### Outcome-based Reward Model
 * [2502] [Exploring the Limit of Outcome Reward for Learning Mathematical Reasoning](https://www.alphaxiv.org/abs/2502.06781) (Shanghai AI Lab)
 * [2502] [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://www.alphaxiv.org/abs/2502.03373) (Introduced cosine length-scaling reward with repetition penalty for stable CoT length growth) (IN.AI)
 * [2501] [SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training](https://www.alphaxiv.org/abs/2501.17161v1) (HKU, Berkeley)
