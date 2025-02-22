@@ -92,7 +92,6 @@ Distillation](https://arxiv.org/pdf/2502.03860) (Salesforce AI Research)
 * ![OpenR](https://img.shields.io/github/stars/openreasoner/openr) [OpenR](https://github.com/openreasoner/openr) (An Open Source Framework for Advanced Reasoning)
 
 
-
 ## Introduction to Reinforcement Learning
 * [（PPO、Q-learning、DQN、A3C）算法原理](https://www.bilibili.com/video/BV1Za4y1d7YJ?spm_id_from=333.788.player.switch&vd_source=228d782c60d8b392d7077abd8d7a1fee&p=3)
 * [pytorch 强化学习-五道口纳什](https://www.bilibili.com/video/BV1tP411M7dT?spm_id_from=333.788.videopod.sections&vd_source=228d782c60d8b392d7077abd8d7a1fee)
@@ -102,6 +101,9 @@ Distillation](https://arxiv.org/pdf/2502.03860) (Salesforce AI Research)
 ## Cloud GPU
 * [Compshare](https://passport.compshare.cn/register?referral_code=Cb96G1f6v4pCdYvO9jqDYd) (After registration, there is a quota of 50 yuan, enough to run R1 on unsloth)
 
+
+## Other Interesting RL-based Reasoning Repository
+* [Awesome RL-based Reasoning MLLMs](https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)
 
 ## Contributing
 
