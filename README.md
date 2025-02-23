@@ -18,6 +18,7 @@ Starring this repository is like being at the forefront of RL-based LLM reasonin
 * [2501] [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/pdf/2501.12599?) (Kimi)
 
 ### Process-based Reward Model
+* [2502] [$S^2$ R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning](https://arxiv.org/pdf/2502.12853#page=16.08) (Tencent)
 * [2502] [Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling](https://www.alphaxiv.org/abs/2502.06703) (THU)
 * [2502] [QLASS: Boosting Language Agent Inference via Q-Guided Stepwise Search](https://arxiv.org/pdf/2502.02584) (UCLA-Yizhou Sun)
 * [2312] [Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations](https://arxiv.org/abs/2312.08935) (PKU & Deepseek)
