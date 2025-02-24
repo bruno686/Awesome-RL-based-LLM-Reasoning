@@ -80,6 +80,7 @@ Distillation](https://arxiv.org/pdf/2502.03860) (Salesforce AI Research)
 ## Video
 * [[LLM+RL] R1 论文导读，SFT vs. RL，RL 基础以及 GRPO 细节，以及一系列复现工作讨论](https://www.bilibili.com/video/BV15yA3eWE5b/?spm_id_from=333.1387.upload.video_card.click&vd_source=228d782c60d8b392d7077abd8d7a1fee)
 * [[LLM+RL] 理解 GRPO 公式原理及 TRL GrpoTrainer 代码实现（advantage 与 loss 计算）](https://www.bilibili.com/video/BV1pXA5eyEEg?spm_id_from=333.788.videopod.sections&vd_source=228d782c60d8b392d7077abd8d7a1fee)
+* [LLM-Based Reasoning: Opportunities and Pitfalls (LAVA Workshop in ACCV 2024)](https://www.youtube.com/watch?v=sPEwVTOtAZ0)
 * [Reinforcement Learning in DeepSeek r1 Visualized](https://www.youtube.com/watch?v=H20Hd6Xb7Qo) ([Chinese](https://www.bilibili.com/video/BV1dWKHetELd/?spm_id_from=333.1007.tianma.1-2-2.click&vd_source=228d782c60d8b392d7077abd8d7a1fee))
 * [EZ撸paper: DeepSeek-R1 论文详解 part 3：GPT发展史 | scaling law | 训练范式 | emergent ability](https://www.youtube.com/watch?v=6fPvbIFF_wY&t=1s)
 * [EZ撸paper: DeepSeek-R1 论文详解 part 2：AGI是什么? | Reinforcement Learning快速入门 | AlphaGo介绍](https://www.youtube.com/watch?v=_dLlfAPuilM)
