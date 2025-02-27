@@ -98,6 +98,13 @@ Distillation](https://arxiv.org/pdf/2502.03860) (Salesforce AI Research)
 
 
 ## Introduction to Reinforcement Learning
+* [2407] [A comprehensive survey of LLM alignment techniques: RLHF, RLAIF, PPO, DPO and more](https://arxiv.org/pdf/2407.16216#page=31.08) 10
+* [2405] [SimPO: Simple Preference Optimization with a Reference-Free Reward](https://arxiv.org/pdf/2405.14734) 227
+* [2402] [(KTO) KTO: Model Alignment as Prospect Theoretic Optimization](https://arxiv.org/pdf/2402.01306) 326
+* [2402] [(GRPO) DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/pdf/2402.03300) 250
+* [2305] [(DPO) Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290) 2580
+* [2203] [(InstructGPT/PPO+LLM) Training language models to follow instructions with human feedback](https://www.mikecaptain.com/resources/pdf/InstructGPT.pdf) 12443
+* [1707] [(PPO) Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347) 23934 
 * [（PPO、Q-learning、DQN、A3C）算法原理](https://www.bilibili.com/video/BV1Za4y1d7YJ?spm_id_from=333.788.player.switch&vd_source=228d782c60d8b392d7077abd8d7a1fee&p=3)
 * [pytorch 强化学习-五道口纳什](https://www.bilibili.com/video/BV1tP411M7dT?spm_id_from=333.788.videopod.sections&vd_source=228d782c60d8b392d7077abd8d7a1fee)
 * [【莫烦Python】强化学习 Reinforcement Learning](https://www.bilibili.com/video/BV13W411Y75P/?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click&vd_source=228d782c60d8b392d7077abd8d7a1fee)
