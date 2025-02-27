@@ -110,6 +110,7 @@ The core essence of reinforcement learning is **how an agent determines the next
 
 
 ## X_PO
+* [2501] [(REINFORCE++) A Simple and Efficient Approach for Aligning Large Language Models](https://arxiv.org/pdf/2501.03262) 6 (REINFORCE++ is more stable in training compared to GRPO and faster than PPO in OpenRLHF report)
 * [2407] [A comprehensive survey of LLM alignment techniques: RLHF, RLAIF, PPO, DPO and more](https://arxiv.org/pdf/2407.16216#page=31.08) 10
 * [2405] [(SimPO) Simple Preference Optimization with a Reference-Free Reward](https://arxiv.org/pdf/2405.14734) 227
 * [2402] [(KTO) Model Alignment as Prospect Theoretic Optimization](https://arxiv.org/pdf/2402.01306) 326
