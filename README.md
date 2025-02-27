@@ -99,8 +99,8 @@ Distillation](https://arxiv.org/pdf/2502.03860) (Salesforce AI Research)
 
 ## Introduction to Reinforcement Learning
 * [2407] [A comprehensive survey of LLM alignment techniques: RLHF, RLAIF, PPO, DPO and more](https://arxiv.org/pdf/2407.16216#page=31.08) 10
-* [2405] [SimPO: Simple Preference Optimization with a Reference-Free Reward](https://arxiv.org/pdf/2405.14734) 227
-* [2402] [(KTO) KTO: Model Alignment as Prospect Theoretic Optimization](https://arxiv.org/pdf/2402.01306) 326
+* [2405] [(SimPO) Simple Preference Optimization with a Reference-Free Reward](https://arxiv.org/pdf/2405.14734) 227
+* [2402] [(KTO) Model Alignment as Prospect Theoretic Optimization](https://arxiv.org/pdf/2402.01306) 326
 * [2402] [(GRPO) DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/pdf/2402.03300) 250
 * [2305] [(DPO) Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290) 2580
 * [2203] [(InstructGPT/PPO+LLM) Training language models to follow instructions with human feedback](https://www.mikecaptain.com/resources/pdf/InstructGPT.pdf) 12443
