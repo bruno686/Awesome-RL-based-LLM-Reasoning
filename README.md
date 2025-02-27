@@ -55,7 +55,7 @@ Distillation](https://arxiv.org/pdf/2502.03860) (Salesforce AI Research)
 * [2502] [LLMs Can Teach Themselves to Better Predict the Future](https://arxiv.org/pdf/2502.05253) (self-play generate data) (LSE) 
 * [2501] [s1: Simple test-time scaling](https://arxiv.org/pdf/2501.19393) (Stanford)
 * [2412] [Training Large Language Model to Reason in a Continuous Latent Space](https://arxiv.org/pdf/2412.06769?) (Meta-Yuandong Tian)
-
+* [2502] [From System 1 to System 2: A Survey of Reasoning Large Language Models](https://arxiv.org/pdf/2502.17419)
 
 <!-- * []()
 * [] []() ()
@@ -105,6 +105,7 @@ Distillation](https://arxiv.org/pdf/2502.03860) (Salesforce AI Research)
 * [2305] [(DPO) Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290) 2580
 * [2203] [(InstructGPT/PPO+LLM) Training language models to follow instructions with human feedback](https://www.mikecaptain.com/resources/pdf/InstructGPT.pdf) 12443
 * [1707] [(PPO) Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347) 23934 
+* [1706] [(RLHF) 677Deep Reinforcement Learning from Human Preferences](https://arxiv.org/abs/1706.03741)
 * [（PPO、Q-learning、DQN、A3C）算法原理](https://www.bilibili.com/video/BV1Za4y1d7YJ?spm_id_from=333.788.player.switch&vd_source=228d782c60d8b392d7077abd8d7a1fee&p=3)
 * [pytorch 强化学习-五道口纳什](https://www.bilibili.com/video/BV1tP411M7dT?spm_id_from=333.788.videopod.sections&vd_source=228d782c60d8b392d7077abd8d7a1fee)
 * [【莫烦Python】强化学习 Reinforcement Learning](https://www.bilibili.com/video/BV13W411Y75P/?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click&vd_source=228d782c60d8b392d7077abd8d7a1fee)
