@@ -59,6 +59,7 @@ Distillation](https://arxiv.org/pdf/2502.03860) (Salesforce AI Research)
 * [2502] [LLMs Can Teach Themselves to Better Predict the Future](https://arxiv.org/pdf/2502.05253) (self-play generate data) (LSE) 
 * [2501] [s1: Simple test-time scaling](https://arxiv.org/pdf/2501.19393) (Stanford)
 * [2412] [Training Large Language Model to Reason in a Continuous Latent Space](https://arxiv.org/pdf/2412.06769?) (Meta-Yuandong Tian)
+* [2412] [Scaling of search and learning: A roadmap to reproduce o1 from reinforcement learning perspective](https://arxiv.org/pdf/2412.14135) 
 
 <!-- * []()
 * [] []() ()
