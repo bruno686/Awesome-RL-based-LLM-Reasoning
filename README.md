@@ -99,6 +99,8 @@ Distillation](https://arxiv.org/pdf/2502.03860) (Salesforce AI Research)
 * ![Logic-RL Stars](https://img.shields.io/github/stars/Unakar/Logic-RL) [Logic-RL](https://github.com/Unakar/Logic-RL)
 * ![Unsloth-GRPO Stars](https://img.shields.io/github/stars/unslothai/unsloth) [Unsloth-GRPO](https://colab.research.google.com/drive/11t4njE3c4Lxl-07OD8lJSMKkfyJml3Tn?usp=sharing) (simplest r1 implementation)
 * ![OpenR](https://img.shields.io/github/stars/openreasoner/openr) [OpenR](https://github.com/openreasoner/openr) (An Open Source Framework for Advanced Reasoning)
+* [DeepSeek-RL-Qwen-0.5B-GRPO-gsm8k](https://github.com/waylandzhang/DeepSeek-RL-Qwen-0.5B-GRPO-gsm8k/blob/main/train-checkpoint-900.ipynb)
+* [deepseek_r1_train](https://github.com/wyf3/llm_related/blob/main/deepseek_learn/deepseek_r1_train/deepseek_r1_train.py)
 
 ## Introduction to Reinforcement Learning
 The core essence of reinforcement learning is **how an agent determines the next action** within an environment to **maximize the return**; the environment’s role is to provide the state and reward.
@@ -127,6 +129,7 @@ The core essence of reinforcement learning is **how an agent determines the next
 
 ## Other Interesting RL-based Reasoning Repository
 * [Awesome RL-based Reasoning MLLMs](https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)
+* [DecryptPrompt](https://github.com/DSXiangLi/DecryptPrompt) (very comprehensive)
 
 ## Contributing
 
