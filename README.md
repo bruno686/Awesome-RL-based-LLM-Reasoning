@@ -29,7 +29,7 @@ Starring this repository is like being at the forefront of RL-based LLM reasonin
 * [2211] [Solving math word problems with process-and outcome-based feedback](https://arxiv.org/pdf/2211.14275) (DeepMind)
 
 ### Reinforcement learning
-
+* [2502] [Provably Optimal Distributional RL for LLM Post-Training](https://arxiv.org/pdf/2502.20548) (Cornell, Harvard)
 * [2502] [On the Emergence of Thinking in LLMs I: Searching for the Right Intuition ](https://www.alphaxiv.org/abs/2502.06773) (Reinforcement Learning via Self-Play) (MIT)
 * [2502] [STP: Self-play LLM Theorem Provers with Iterative Conjecturing and Proving](https://arxiv.org/pdf/2502.00212) (the scarcity of correct proofs sparse rewards will make performance quickly plateaus. To overcome this, we draw inspiration from mathematicians, who continuously develop new results, partly by proposing novel conjectures or exercises (which are often variants of known
 results) and attempting to solve them.) (Stanford-Tengyu Ma)
@@ -43,6 +43,7 @@ results) and attempting to solve them.) (Stanford-Tengyu Ma)
 
 
 ### Other Newest Interesting Papers about LLM Reasoning
+* [2501] [Reasoning Language Models: A Blueprint](https://arxiv.org/pdf/2501.11223)
 * [2502] [From System 1 to System 2: A Survey of Reasoning Large Language Models](https://arxiv.org/pdf/2502.17419)
 * [2502] [When More is Less: Understanding Chain-of-Thought Length in LLMs](https://www.alphaxiv.org/abs/2502.07266) (I think is also about overthinking) (PKU, MIT)
 * [2502] [Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning](https://arxiv.org/pdf/2502.03275) (Meta-Yuandong Tian)
@@ -60,6 +61,7 @@ Distillation](https://arxiv.org/pdf/2502.03860) (Salesforce AI Research)
 * [2501] [s1: Simple test-time scaling](https://arxiv.org/pdf/2501.19393) (Stanford)
 * [2412] [Training Large Language Model to Reason in a Continuous Latent Space](https://arxiv.org/pdf/2412.06769?) (Meta-Yuandong Tian)
 * [2412] [Scaling of search and learning: A roadmap to reproduce o1 from reinforcement learning perspective](https://arxiv.org/pdf/2412.14135) 
+* [2408] [Visual Agents as Fast and Slow Thinkers](https://arxiv.org/pdf/2408.08862)
 
 <!-- * []()
 * [] []() ()
