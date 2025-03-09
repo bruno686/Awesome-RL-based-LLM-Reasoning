@@ -29,6 +29,7 @@ Starring this repository is like being at the forefront of RL-based LLM reasonin
 * [2211] [Solving math word problems with process-and outcome-based feedback](https://arxiv.org/pdf/2211.14275) (DeepMind)
 
 ### Reinforcement learning
+* [2503] [L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning](https://www.arxiv.org/pdf/2503.04697) (CMU)
 * [2502] [Provably Optimal Distributional RL for LLM Post-Training](https://arxiv.org/pdf/2502.20548) (Cornell, Harvard)
 * [2502] [On the Emergence of Thinking in LLMs I: Searching for the Right Intuition ](https://www.alphaxiv.org/abs/2502.06773) (Reinforcement Learning via Self-Play) (MIT)
 * [2502] [STP: Self-play LLM Theorem Provers with Iterative Conjecturing and Proving](https://arxiv.org/pdf/2502.00212) (the scarcity of correct proofs sparse rewards will make performance quickly plateaus. To overcome this, we draw inspiration from mathematicians, who continuously develop new results, partly by proposing novel conjectures or exercises (which are often variants of known
@@ -43,6 +44,7 @@ results) and attempting to solve them.) (Stanford-Tengyu Ma)
 
 
 ### Other Newest Interesting Papers about LLM Reasoning
+* [2503] [Attentive Reasoning Queries: A Systematic Method for Optimizing Instruction-Following in Large Language Models](https://arxiv.org/pdf/2503.03669v1) (Emcie Co Ltd)
 * [2501] [Reasoning Language Models: A Blueprint](https://arxiv.org/pdf/2501.11223)
 * [2502] [From System 1 to System 2: A Survey of Reasoning Large Language Models](https://arxiv.org/pdf/2502.17419)
 * [2502] [When More is Less: Understanding Chain-of-Thought Length in LLMs](https://www.alphaxiv.org/abs/2502.07266) (I think is also about overthinking) (PKU, MIT)
@@ -71,16 +73,19 @@ Distillation](https://arxiv.org/pdf/2502.03860) (Salesforce AI Research)
 ### 
 
 ## Slides and Discussion
-* **[LLM Reasoning: Key Ideas and Limitations](https://llm-class.github.io/slides/Denny_Zhou.pdf)** Denny Zhou-DeepMind ([Video](https://www.google.com/search?q=llm+reasoning+key+ideas+and+limitations&oq=LLM+Reasoning+key+ideas&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTINCAIQABiGAxiABBiKBTINCAMQABiGAxiABBiKBTINCAQQABiGAxiABBiKBTINCAUQABiGAxiABBiKBdIBCDQ5NjRqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:22a2556e,vid:-SZAciVbswk,st:0))
-* **[Towards Reasoning in Large Language Models](https://jeffhj.github.io/files/acl2023-slides-llm-reasoning.pdf)** Jie Huang-UIUC
-* **[Can LLMs Reason & Plan?](https://icml.cc/media/icml-2024/Slides/33965.pdf)** Subbarao Kambhampati-ASU
-* **[Inference-Time Techniques for LLM Reasoning](https://rdi.berkeley.edu/adv-llm-agents/slides/inference_time_techniques_lecture_sp25.pdf)** Xinyun Chen-DeepMind
-* **[Chain-of-Thought Reasoning In Language Models](https://bcmi.sjtu.edu.cn/~zhangzs/slides/CoT-zhuosheng.pdf)** Zhuosheng Zhang-SJTU
-* **[Learning to Self-Improve & Reason with LLMs](https://rdi.berkeley.edu/adv-llm-agents/slides/Jason-Weston-Reasoning-Alignment-Berkeley-Talk.pdf)** Jason Weston-Meta & NYU
-* **[为什么在Deepseek-R1-ZERO出现前，无人尝试放弃微调对齐，通过强化学习生成思考链推理模型？](https://www.zhihu.com/question/10696846752)** Zhihu
-* **[Kimi Flood Sung](https://www.zhihu.com/question/10114790245/answer/84028353434)** Zhihu
-* **[Deepseek系列文章梳理](https://www.zhihu.com/question/10714706736/answer/102795684744)** Zhihu
-* **[ChatGPT and The Art of Post-Training](https://docs.google.com/presentation/d/11KWCKUORnPpVMSY6vXgBeFSWo7fJcuGQ9yuR6vC1pzE/edit#slide=id.g329eafab7b6_0_3)** Stanford-25/02/18
+* [A Visual Guide to Reasoning LLMs](https://substack.com/home/post/p-153314921)
+* [Understanding Reasoning LLMs Methods and Strategies for Building and Refining Reasoning Models](https://sebastianraschka.com/blog/2025/understanding-reasoning-llms.html)
+* [What is the difference between large reasoning model and LLM?](https://www.zhihu.com/question/11667247329) (Zhihu)
+* [LLM Reasoning: Key Ideas and Limitations](https://llm-class.github.io/slides/Denny_Zhou.pdf) Denny Zhou-DeepMind ([Video](https://www.google.com/search?q=llm+reasoning+key+ideas+and+limitations&oq=LLM+Reasoning+key+ideas&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTINCAIQABiGAxiABBiKBTINCAMQABiGAxiABBiKBTINCAQQABiGAxiABBiKBTINCAUQABiGAxiABBiKBdIBCDQ5NjRqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:22a2556e,vid:-SZAciVbswk,st:0))
+* [Towards Reasoning in Large Language Models](https://jeffhj.github.io/files/acl2023-slides-llm-reasoning.pdf) Jie Huang-UIUC
+* [Can LLMs Reason & Plan?](https://icml.cc/media/icml-2024/Slides/33965.pdf) Subbarao Kambhampati-ASU
+* [Inference-Time Techniques for LLM Reasoning](https://rdi.berkeley.edu/adv-llm-agents/slides/inference_time_techniques_lecture_sp25.pdf) Xinyun Chen-DeepMind
+* [Chain-of-Thought Reasoning In Language Models](https://bcmi.sjtu.edu.cn/~zhangzs/slides/CoT-zhuosheng.pdf) Zhuosheng Zhang-SJTU
+* [Learning to Self-Improve & Reason with LLMs](https://rdi.berkeley.edu/adv-llm-agents/slides/Jason-Weston-Reasoning-Alignment-Berkeley-Talk.pdf) Jason Weston-Meta & NYU
+* [为什么在Deepseek-R1-ZERO出现前，无人尝试放弃微调对齐，通过强化学习生成思考链推理模型？](https://www.zhihu.com/question/10696846752) Zhihu
+* [Kimi Flood Sung](https://www.zhihu.com/question/10114790245/answer/84028353434) Zhihu
+* [Deepseek系列文章梳理](https://www.zhihu.com/question/10714706736/answer/102795684744) Zhihu
+* [ChatGPT and The Art of Post-Training](https://docs.google.com/presentation/d/11KWCKUORnPpVMSY6vXgBeFSWo7fJcuGQ9yuR6vC1pzE/edit#slide=id.g329eafab7b6_0_3) Stanford-25/02/18
 
 
 ## Video
