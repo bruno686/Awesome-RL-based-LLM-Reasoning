@@ -29,6 +29,7 @@ Starring this repository is like being at the forefront of RL-based LLM reasonin
 * [2211] [Solving math word problems with process-and outcome-based feedback](https://arxiv.org/pdf/2211.14275) (DeepMind)
 
 ### Reinforcement learning
+* [2503] [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](https://arxiv.org/pdf/2503.15478) (agent & reasoning)
 * [2502] [Reasoning with Reinforced Functional Token Tuning](https://arxiv.org/pdf/2502.13389)
 * [2503] [DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models](https://arxiv.org/pdf/2503.04472) (short length of thinking by RL)
 * [2503] [L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning](https://www.arxiv.org/pdf/2503.04697) (CMU)
@@ -64,9 +65,12 @@ Agentic Tasks](https://www.alphaxiv.org/abs/2502.08235) (I think overthinking is
 Distillation](https://arxiv.org/pdf/2502.03860) (Salesforce AI Research)
 * [2502] [LLMs Can Teach Themselves to Better Predict the Future](https://arxiv.org/pdf/2502.05253) (self-play generate data) (LSE) 
 * [2501] [s1: Simple test-time scaling](https://arxiv.org/pdf/2501.19393) (Stanford)
+* [2412] [Efficiently Serving LLM Reasoning Programs with Certaindex](https://arxiv.org/pdf/2412.20993) (UCSD) (overthinking, probe in the middle)
 * [2412] [Training Large Language Model to Reason in a Continuous Latent Space](https://arxiv.org/pdf/2412.06769?) (Meta-Yuandong Tian)
 * [2412] [Scaling of search and learning: A roadmap to reproduce o1 from reinforcement learning perspective](https://arxiv.org/pdf/2412.14135) 
 * [2408] [Visual Agents as Fast and Slow Thinkers](https://arxiv.org/pdf/2408.08862)
+
+
 
 <!-- * []()
 * [] []() ()
