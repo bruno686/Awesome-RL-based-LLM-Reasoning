@@ -142,6 +142,7 @@ The core essence of reinforcement learning is **how an agent determines the next
 
 
 ## Other Interesting RL-based Reasoning Repository
+* [Awesome-Efficient-CoT-Reasoning-Summary](https://github.com/zwxandy/Awesome-Efficient-CoT-Reasoning-Summary)
 * [Awesome RL-based Reasoning MLLMs](https://github.com/Sun-Haoyuan23/Awesome-RL-based-Reasoning-MLLMs)
 * [DecryptPrompt](https://github.com/DSXiangLi/DecryptPrompt) (very comprehensive)
 
