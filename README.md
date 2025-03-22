@@ -47,6 +47,7 @@ results) and attempting to solve them.) (Stanford-Tengyu Ma)
 
 
 ### Other Newest Interesting Papers about LLM Reasoning
+* [2503] [Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](https://arxiv.org/pdf/2503.16419v1)
 * [2503] [Interpreting the Repeated Token Phenomenon in Large Language Models](https://arxiv.org/pdf/2503.08908) (DeepMind)
 * [2503] [Attentive Reasoning Queries: A Systematic Method for Optimizing Instruction-Following in Large Language Models](https://arxiv.org/pdf/2503.03669v1) (Emcie Co Ltd)
 * [2501] [Reasoning Language Models: A Blueprint](https://arxiv.org/pdf/2501.11223)
