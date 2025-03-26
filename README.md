@@ -47,6 +47,7 @@ results) and attempting to solve them.) (Stanford-Tengyu Ma)
 
 
 ### Other Newest Interesting Papers about LLM Reasoning
+* [2412] [Formal Mathematical Reasoning: A New Frontier in AI](https://arxiv.org/pdf/2412.16075)
 * [2503] [Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](https://arxiv.org/pdf/2503.16419v1)
 * [2503] [Interpreting the Repeated Token Phenomenon in Large Language Models](https://arxiv.org/pdf/2503.08908) (DeepMind)
 * [2503] [Attentive Reasoning Queries: A Systematic Method for Optimizing Instruction-Following in Large Language Models](https://arxiv.org/pdf/2503.03669v1) (Emcie Co Ltd)
@@ -81,6 +82,7 @@ Distillation](https://arxiv.org/pdf/2502.03860) (Salesforce AI Research)
 ### 
 
 ## Slides and Discussion
+* [Self-improvement of LLM agents through Reinforcement Learning at Scale ](https://www.csail.mit.edu/event/scale-ml-self-improvement-llm-agents-through-reinforcement-learning-scale)
 * [A Visual Guide to Reasoning LLMs](https://substack.com/home/post/p-153314921)
 * [Understanding Reasoning LLMs Methods and Strategies for Building and Refining Reasoning Models](https://sebastianraschka.com/blog/2025/understanding-reasoning-llms.html)
 * [What is the difference between large reasoning model and LLM?](https://www.zhihu.com/question/11667247329) (Zhihu)
