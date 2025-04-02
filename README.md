@@ -29,10 +29,12 @@ Starring this repository is like being at the forefront of RL-based LLM reasonin
 * [2211] [Solving math word problems with process-and outcome-based feedback](https://arxiv.org/pdf/2211.14275) (DeepMind)
 
 ### Reinforcement learning
+
 * [2503] [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](https://arxiv.org/pdf/2503.15478) (agent & reasoning)
 * [2502] [Reasoning with Reinforced Functional Token Tuning](https://arxiv.org/pdf/2502.13389)
 * [2503] [DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models](https://arxiv.org/pdf/2503.04472) (short length of thinking by RL)
 * [2503] [L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning](https://www.arxiv.org/pdf/2503.04697) (CMU)
+* [2502] [Scaling Test-Time Compute Without Verification or RL is Suboptimal](https://arxiv.org/pdf/2502.12118) (CMU, UC Berkeley)
 * [2502] [Provably Optimal Distributional RL for LLM Post-Training](https://arxiv.org/pdf/2502.20548) (Cornell, Harvard)
 * [2502] [On the Emergence of Thinking in LLMs I: Searching for the Right Intuition ](https://www.alphaxiv.org/abs/2502.06773) (Reinforcement Learning via Self-Play) (MIT)
 * [2502] [STP: Self-play LLM Theorem Provers with Iterative Conjecturing and Proving](https://arxiv.org/pdf/2502.00212) (the scarcity of correct proofs sparse rewards will make performance quickly plateaus. To overcome this, we draw inspiration from mathematicians, who continuously develop new results, partly by proposing novel conjectures or exercises (which are often variants of known
