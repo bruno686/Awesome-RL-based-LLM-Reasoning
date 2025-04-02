@@ -29,12 +29,12 @@ Starring this repository is like being at the forefront of RL-based LLM reasonin
 * [2211] [Solving math word problems with process-and outcome-based feedback](https://arxiv.org/pdf/2211.14275) (DeepMind)
 
 ### Reinforcement learning
-* [2504] [When To Solve, When To Verify: Compute-Optimal Problem Solving and Generative Verification for LLM Reasoning](https://arxiv.org/pdf/2504.01005)
+* [2504] [When To Solve, When To Verify: Compute-Optimal Problem Solving and Generative Verification for LLM Reasoning](https://arxiv.org/pdf/2504.01005) [| Explain](https://x.com/hbXNov/status/1907253956788777041)
 * [2503] [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](https://arxiv.org/pdf/2503.15478) (agent & reasoning)
-* [2502] [Reasoning with Reinforced Functional Token Tuning](https://arxiv.org/pdf/2502.13389)
 * [2503] [DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models](https://arxiv.org/pdf/2503.04472) (short length of thinking by RL)
 * [2503] [L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning](https://www.arxiv.org/pdf/2503.04697) (CMU)
-* [2502] [Scaling Test-Time Compute Without Verification or RL is Suboptimal](https://arxiv.org/pdf/2502.12118) (CMU, UC Berkeley)
+* [2502] [Scaling Test-Time Compute Without Verification or RL is Suboptimal](https://arxiv.org/pdf/2502.12118) (CMU, UC Berkeley) (verifier-based (VB) is better than verifier-free (VF))
+* [2502] [Reasoning with Reinforced Functional Token Tuning](https://arxiv.org/pdf/2502.13389)
 * [2502] [Provably Optimal Distributional RL for LLM Post-Training](https://arxiv.org/pdf/2502.20548) (Cornell, Harvard)
 * [2502] [On the Emergence of Thinking in LLMs I: Searching for the Right Intuition ](https://www.alphaxiv.org/abs/2502.06773) (Reinforcement Learning via Self-Play) (MIT)
 * [2502] [STP: Self-play LLM Theorem Provers with Iterative Conjecturing and Proving](https://arxiv.org/pdf/2502.00212) (the scarcity of correct proofs sparse rewards will make performance quickly plateaus. To overcome this, we draw inspiration from mathematicians, who continuously develop new results, partly by proposing novel conjectures or exercises (which are often variants of known
@@ -47,14 +47,17 @@ results) and attempting to solve them.) (Stanford-Tengyu Ma)
 * [2408] [Deepseek-prover-v1. 5: Harnessing proof assistant feedback for reinforcement learning and monte-carlo tree search](https://arxiv.org/abs/2408.08152) (DeepSeek)
 * [2310] [Solving olympiad geometry without human demonstrations](https://www.nature.com/articles/s41586-023-06747-5.pdf) (DeepMind)
 
+### Question about LLM Reasoning Ability
+* [2504] [Recitation over Reasoning: How Cutting-Edge Language Models Can Fail on Elementary School-Level Reasoning Problems?](https://arxiv.org/pdf/2504.00509) (ByteDance Seed) (by changing one phrase in the condition, top models such as OpenAI-o1 and DeepSeek-R1 can suffer 60% performance loss on elementary school-level arithmetic and reasoning problems)
+* [2503] [Proof or Bluff? Evaluating LLMs on 2025 USA Math Olympiad](https://arxiv.org/pdf/2503.21934v1) (the outcome of the 2025 USA Math Olympiad was worse. Most of the results were 0)
+
 
 ### Other Newest Interesting Papers about LLM Reasoning
-* [2412] [Formal Mathematical Reasoning: A New Frontier in AI](https://arxiv.org/pdf/2412.16075)
-* [2503] [Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](https://arxiv.org/pdf/2503.16419v1)
+* [2503] [Landscape of Thoughts: Visualizing the Reasoning Process of Large Language Models](https://arxiv.org/pdf/2503.22165) (visulize reasoning process)
+* [2503] [Efficient Test-Time Scaling via Self-Calibration](https://arxiv.org/pdf/2503.00031) (WUSTL) (LLMs are known to be overconfident and provide unreliable confidence estimation)
 * [2503] [Interpreting the Repeated Token Phenomenon in Large Language Models](https://arxiv.org/pdf/2503.08908) (DeepMind)
 * [2503] [Attentive Reasoning Queries: A Systematic Method for Optimizing Instruction-Following in Large Language Models](https://arxiv.org/pdf/2503.03669v1) (Emcie Co Ltd)
 * [2501] [Reasoning Language Models: A Blueprint](https://arxiv.org/pdf/2501.11223)
-* [2502] [From System 1 to System 2: A Survey of Reasoning Large Language Models](https://arxiv.org/pdf/2502.17419)
 * [2502] [When More is Less: Understanding Chain-of-Thought Length in LLMs](https://www.alphaxiv.org/abs/2502.07266) (I think is also about overthinking) (PKU, MIT)
 * [2502] [Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning](https://arxiv.org/pdf/2502.03275) (Meta-Yuandong Tian)
 * [2502] [CoT-Valve: Length-Compressible Chain-of-Thought Tuning](https://www.alphaxiv.org/abs/2502.09601) (overthinking) (NUS)
@@ -68,13 +71,17 @@ Agentic Tasks](https://www.alphaxiv.org/abs/2502.08235) (I think overthinking is
 * [2502] [BOLT: Bootstrap Long Chain-of-Thought in Language Models without
 Distillation](https://arxiv.org/pdf/2502.03860) (Salesforce AI Research)
 * [2502] [LLMs Can Teach Themselves to Better Predict the Future](https://arxiv.org/pdf/2502.05253) (self-play generate data) (LSE) 
-* [2501] [s1: Simple test-time scaling](https://arxiv.org/pdf/2501.19393) (Stanford)
+* [2501] [s1: Simple test-time scaling](https://arxiv.org/pdf/2501.19393) (Stanford) (distillation and using 'wait' append response)
+* [2412] [Formal Mathematical Reasoning: A New Frontier in AI](https://arxiv.org/pdf/2412.16075)
 * [2412] [Efficiently Serving LLM Reasoning Programs with Certaindex](https://arxiv.org/pdf/2412.20993) (UCSD) (overthinking, probe in the middle)
 * [2412] [Training Large Language Model to Reason in a Continuous Latent Space](https://arxiv.org/pdf/2412.06769?) (Meta-Yuandong Tian)
 * [2412] [Scaling of search and learning: A roadmap to reproduce o1 from reinforcement learning perspective](https://arxiv.org/pdf/2412.14135) 
 * [2408] [Visual Agents as Fast and Slow Thinkers](https://arxiv.org/pdf/2408.08862)
 
-
+### Surveys
+* [2503] [Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](https://arxiv.org/pdf/2503.16419v1)
+* [2502] [From System 1 to System 2: A Survey of Reasoning Large Language Models](https://arxiv.org/pdf/2502.17419)
+* [2407] [A comprehensive survey of LLM alignment techniques: RLHF, RLAIF, PPO, DPO and more](https://arxiv.org/pdf/2407.16216#page=31.08)
 
 <!-- * []()
 * [] []() ()
@@ -133,7 +140,6 @@ The core essence of reinforcement learning is **how an agent determines the next
 
 ## X_PO
 * [2501] [(REINFORCE++) A Simple and Efficient Approach for Aligning Large Language Models](https://arxiv.org/pdf/2501.03262) 6 (REINFORCE++ is more stable in training compared to GRPO and faster than PPO in OpenRLHF report)
-* [2407] [A comprehensive survey of LLM alignment techniques: RLHF, RLAIF, PPO, DPO and more](https://arxiv.org/pdf/2407.16216#page=31.08) 10
 * [2405] [(SimPO) Simple Preference Optimization with a Reference-Free Reward](https://arxiv.org/pdf/2405.14734) 227
 * [2402] [(KTO) Model Alignment as Prospect Theoretic Optimization](https://arxiv.org/pdf/2402.01306) 326
 * [2402] [(GRPO) DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/pdf/2402.03300) 250
