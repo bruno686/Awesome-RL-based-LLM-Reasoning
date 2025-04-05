@@ -29,6 +29,7 @@ Starring this repository is like being at the forefront of RL-based LLM reasonin
 * [2211] [Solving math word problems with process-and outcome-based feedback](https://arxiv.org/pdf/2211.14275) (DeepMind)
 
 ### Reinforcement learning
+* [2504] [GPG: A Simple and Strong Reinforcement Learning Baseline for Model Reasoning](https://www.arxiv.org/pdf/2504.02546)
 * [2504] [When To Solve, When To Verify: Compute-Optimal Problem Solving and Generative Verification for LLM Reasoning](https://arxiv.org/pdf/2504.01005) [| Explain](https://x.com/hbXNov/status/1907253956788777041)
 * [2503] [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](https://arxiv.org/pdf/2503.15478) (agent & reasoning)
 * [2503] [DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models](https://arxiv.org/pdf/2503.04472) (short length of thinking by RL)
