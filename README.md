@@ -29,6 +29,7 @@ Starring this repository is like being at the forefront of RL-based LLM reasonin
 * [2211] [Solving math word problems with process-and outcome-based feedback](https://arxiv.org/pdf/2211.14275) (DeepMind)
 
 ### Reinforcement learning
+* [2504] [THINKPRUNE: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning](https://arxiv.org/pdf/2504.01296)
 * [2504] [GPG: A Simple and Strong Reinforcement Learning Baseline for Model Reasoning](https://www.arxiv.org/pdf/2504.02546)
 * [2504] [When To Solve, When To Verify: Compute-Optimal Problem Solving and Generative Verification for LLM Reasoning](https://arxiv.org/pdf/2504.01005) [| Explain](https://x.com/hbXNov/status/1907253956788777041)
 * [2503] [SWEET-RL: Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks](https://arxiv.org/pdf/2503.15478) (agent & reasoning)
@@ -54,11 +55,12 @@ results) and attempting to solve them.) (Stanford-Tengyu Ma)
 
 
 ### Other Newest Interesting Papers about LLM Reasoning
+* [2503] [Effectively Controlling Reasoning Models through Thinking Intervention](https://www.alphaxiv.org/abs/2503.24370)
 * [2503] [Landscape of Thoughts: Visualizing the Reasoning Process of Large Language Models](https://arxiv.org/pdf/2503.22165) (visulize reasoning process)
 * [2503] [Efficient Test-Time Scaling via Self-Calibration](https://arxiv.org/pdf/2503.00031) (WUSTL) (LLMs are known to be overconfident and provide unreliable confidence estimation)
 * [2503] [Interpreting the Repeated Token Phenomenon in Large Language Models](https://arxiv.org/pdf/2503.08908) (DeepMind)
 * [2503] [Attentive Reasoning Queries: A Systematic Method for Optimizing Instruction-Following in Large Language Models](https://arxiv.org/pdf/2503.03669v1) (Emcie Co Ltd)
-* [2501] [Reasoning Language Models: A Blueprint](https://arxiv.org/pdf/2501.11223)
+* [2502] [Revisiting the Test-Time Scaling of o1-like Models: Do they Truly Possess Test-Time Scaling Capabilities?](https://arxiv.org/pdf/2502.12215)
 * [2502] [When More is Less: Understanding Chain-of-Thought Length in LLMs](https://www.alphaxiv.org/abs/2502.07266) (I think is also about overthinking) (PKU, MIT)
 * [2502] [Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning](https://arxiv.org/pdf/2502.03275) (Meta-Yuandong Tian)
 * [2502] [CoT-Valve: Length-Compressible Chain-of-Thought Tuning](https://www.alphaxiv.org/abs/2502.09601) (overthinking) (NUS)
@@ -72,6 +74,7 @@ Agentic Tasks](https://www.alphaxiv.org/abs/2502.08235) (I think overthinking is
 * [2502] [BOLT: Bootstrap Long Chain-of-Thought in Language Models without
 Distillation](https://arxiv.org/pdf/2502.03860) (Salesforce AI Research)
 * [2502] [LLMs Can Teach Themselves to Better Predict the Future](https://arxiv.org/pdf/2502.05253) (self-play generate data) (LSE) 
+* [2501] [Reasoning Language Models: A Blueprint](https://arxiv.org/pdf/2501.11223)
 * [2501] [s1: Simple test-time scaling](https://arxiv.org/pdf/2501.19393) (Stanford) (distillation and using 'wait' append response)
 * [2412] [Formal Mathematical Reasoning: A New Frontier in AI](https://arxiv.org/pdf/2412.16075)
 * [2412] [Efficiently Serving LLM Reasoning Programs with Certaindex](https://arxiv.org/pdf/2412.20993) (UCSD) (overthinking, probe in the middle)
@@ -80,6 +83,11 @@ Distillation](https://arxiv.org/pdf/2502.03860) (Salesforce AI Research)
 * [2408] [Visual Agents as Fast and Slow Thinkers](https://arxiv.org/pdf/2408.08862)
 
 ### Surveys
+* [2504] [An Illusion of Progress? Assessing the Current State of Web Agents](https://www.alphaxiv.org/abs/2504.01382) (OSU, Berkeley)
+* [2503] [Agentic Large Language Models, a survey](https://www.alphaxiv.org/abs/2503.23037) (LeidenU)
+* [2503] [Harnessing the Reasoning Economy A Survey of Efficient Reasoning for Large Language Models](https://www.alphaxiv.org/abs/2503.24377) (CUHK)
+* [2503] [What, How, Where, and How Well? A Survey on Test-Time Scaling in Large Language Models](https://www.alphaxiv.org/abs/2503.24235) (CityU)
+* [2503] [A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/pdf/2503.21614)
 * [2503] [Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](https://arxiv.org/pdf/2503.16419v1)
 * [2502] [From System 1 to System 2: A Survey of Reasoning Large Language Models](https://arxiv.org/pdf/2502.17419)
 * [2407] [A comprehensive survey of LLM alignment techniques: RLHF, RLAIF, PPO, DPO and more](https://arxiv.org/pdf/2407.16216#page=31.08)
