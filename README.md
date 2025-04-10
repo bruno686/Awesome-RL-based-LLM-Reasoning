@@ -55,6 +55,7 @@ results) and attempting to solve them.) (Stanford-Tengyu Ma)
 
 
 ### Other Newest Interesting Papers about LLM Reasoning
+* [2504] [Do Larger Language Models Imply Better Reasoning? A Pretraining Scaling Law for Reasoning](https://arxiv.org/pdf/2504.03635)
 * [2503] [Effectively Controlling Reasoning Models through Thinking Intervention](https://www.alphaxiv.org/abs/2503.24370)
 * [2503] [Landscape of Thoughts: Visualizing the Reasoning Process of Large Language Models](https://arxiv.org/pdf/2503.22165) (visulize reasoning process)
 * [2503] [Efficient Test-Time Scaling via Self-Calibration](https://arxiv.org/pdf/2503.00031) (WUSTL) (LLMs are known to be overconfident and provide unreliable confidence estimation)
