@@ -50,6 +50,7 @@ results) and attempting to solve them.) (Stanford-Tengyu Ma)
 * [2310] [Solving olympiad geometry without human demonstrations](https://www.nature.com/articles/s41586-023-06747-5.pdf) (DeepMind)
 
 ### Question about LLM Reasoning Ability
+* [2504] [A Sober Look at Progress in Language Model Reasoning: Pitfalls and Paths to Reproducibility](https://arxiv.org/pdf/2504.07086) 
 * [2504] [Recitation over Reasoning: How Cutting-Edge Language Models Can Fail on Elementary School-Level Reasoning Problems?](https://arxiv.org/pdf/2504.00509) (ByteDance Seed) (by changing one phrase in the condition, top models such as OpenAI-o1 and DeepSeek-R1 can suffer 60% performance loss on elementary school-level arithmetic and reasoning problems)
 * [2503] [Proof or Bluff? Evaluating LLMs on 2025 USA Math Olympiad](https://arxiv.org/pdf/2503.21934v1) (the outcome of the 2025 USA Math Olympiad was worse. Most of the results were 0)
 
