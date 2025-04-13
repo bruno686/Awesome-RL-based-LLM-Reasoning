@@ -55,6 +55,9 @@ results) and attempting to solve them.) (Stanford-Tengyu Ma)
 
 
 ### Other Newest Interesting Papers about LLM Reasoning
+* [2504] [DeepSeek-R1 Thoughtology: Let's <think> about LLM Reasoning](https://arxiv.org/pdf/2504.07128)
+* [2504] [Reasoning Models Know When They’re Right: Probing Hidden States for Self-Verification](https://arxiv.org/pdf/2504.05419v1)
+* [2503] [Efficient Test-Time Scaling via Self-Calibration](https://arxiv.org/pdf/2503.00031)
 * [2504] [Do Larger Language Models Imply Better Reasoning? A Pretraining Scaling Law for Reasoning](https://arxiv.org/pdf/2504.03635)
 * [2503] [Effectively Controlling Reasoning Models through Thinking Intervention](https://www.alphaxiv.org/abs/2503.24370)
 * [2503] [Landscape of Thoughts: Visualizing the Reasoning Process of Large Language Models](https://arxiv.org/pdf/2503.22165) (visulize reasoning process)
@@ -88,7 +91,7 @@ Distillation](https://arxiv.org/pdf/2502.03860) (Salesforce AI Research)
 * [2503] [Agentic Large Language Models, a survey](https://www.alphaxiv.org/abs/2503.23037) (LeidenU)
 * [2503] [Harnessing the Reasoning Economy A Survey of Efficient Reasoning for Large Language Models](https://www.alphaxiv.org/abs/2503.24377) (CUHK)
 * [2503] [What, How, Where, and How Well? A Survey on Test-Time Scaling in Large Language Models](https://www.alphaxiv.org/abs/2503.24235) (CityU)
-* [2503] [A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/pdf/2503.21614) (sh ailab)
+* [2503] [A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/pdf/2503.21614)
 * [2503] [Stop Overthinking: A Survey on Efficient Reasoning for Large Language Models](https://arxiv.org/pdf/2503.16419v1)
 * [2502] [From System 1 to System 2: A Survey of Reasoning Large Language Models](https://arxiv.org/pdf/2502.17419)
 * [2407] [A comprehensive survey of LLM alignment techniques: RLHF, RLAIF, PPO, DPO and more](https://arxiv.org/pdf/2407.16216#page=31.08)
