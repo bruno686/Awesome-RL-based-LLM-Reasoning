@@ -159,7 +159,8 @@ The core essence of reinforcement learning is **how an agent determines the next
 * [2402] [(GRPO) DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/pdf/2402.03300) 250
 * [2305] [(DPO) Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/pdf/2305.18290) 2580
 * [2203] [(InstructGPT/PPO+LLM) Training language models to follow instructions with human feedback](https://www.mikecaptain.com/resources/pdf/InstructGPT.pdf) 12443
-* [1707] [(PPO) Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347) 23934 
+* [1707] [(PPO) Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347) 23934
+* [1502] [(TRPO)Trust Region Policy Optimization](https://arxiv.org/pdf/1502.05477) 9579
 * [1706] [(RLHF) Deep Reinforcement Learning from Human Preferences](https://arxiv.org/abs/1706.03741) 3571
 
 ## Cloud GPU
