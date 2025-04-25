@@ -29,6 +29,7 @@ Starring this repository is like being at the forefront of RL-based LLM reasonin
 * [2211] [Solving math word problems with process-and outcome-based feedback](https://arxiv.org/pdf/2211.14275) (DeepMind)
 
 ### Reinforcement learning
+* [2504] [Learning to Reason under Off-Policy Guidance](https://arxiv.org/abs/2504.14945) (Shanghai AI Lab)
 * [2504] [THINKPRUNE: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning](https://arxiv.org/pdf/2504.01296)
 * [2504] [GPG: A Simple and Strong Reinforcement Learning Baseline for Model Reasoning](https://www.arxiv.org/pdf/2504.02546)
 * [2504] [When To Solve, When To Verify: Compute-Optimal Problem Solving and Generative Verification for LLM Reasoning](https://arxiv.org/pdf/2504.01005) [| Explain](https://x.com/hbXNov/status/1907253956788777041)
