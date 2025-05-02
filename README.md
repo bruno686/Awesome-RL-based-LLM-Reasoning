@@ -27,6 +27,7 @@ Starring this repository is like being at the forefront of RL-based LLM reasonin
 * [2312] [Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations](https://arxiv.org/abs/2312.08935) (PKU & Deepseek)
 * [2305] [Let's verify step by step](https://arxiv.org/pdf/2305.20050) (OpenAI)
 * [2211] [Solving math word problems with process-and outcome-based feedback](https://arxiv.org/pdf/2211.14275) (DeepMind)
+* [2504] [Process Reward Models That Think](https://arxiv.org/abs/2504.16828) (UMich)
 
 ### Reinforcement learning
 * [2504] [Learning to Reason under Off-Policy Guidance](https://arxiv.org/abs/2504.14945) (Shanghai AI Lab)
