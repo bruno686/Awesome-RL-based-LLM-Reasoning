@@ -30,6 +30,7 @@ Starring this repository is like being at the forefront of RL-based LLM reasonin
 * [2504] [Process Reward Models That Think](https://arxiv.org/abs/2504.16828) (UMich)
 
 ### Reinforcement learning
+* [2506] [RoboRefer: Towards Spatial Referring with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/abs/2506.04308) (BUAA & BAAI)
 * [2504] [Learning to Reason under Off-Policy Guidance](https://arxiv.org/abs/2504.14945) (Shanghai AI Lab)
 * [2504] [THINKPRUNE: Pruning Long Chain-of-Thought of LLMs via Reinforcement Learning](https://arxiv.org/pdf/2504.01296)
 * [2504] [GPG: A Simple and Strong Reinforcement Learning Baseline for Model Reasoning](https://www.arxiv.org/pdf/2504.02546)
